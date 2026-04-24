@@ -12,14 +12,4 @@
   "TAGS": "release-keys",
   "SECURITY_PATCH": "2025-07-05",
   "DEVICE_INITIAL_SDK_INT": "32",
-  "*.build.id": "BP31.250610.009",
-  "*.security_patch": "2025-07-05",
-  "*api_level": "32",
-  "spoofBuild": "1",
-  "spoofProps": "1",
-  "spoofProvider": "0",
-  "spoofSignature": "0",
-  "spoofVendingFinger": "0",
-  "spoofVendingSdk": "0",
-  "verboseLogs": "0"
 }
