@@ -1,0 +1,14 @@
+{
+  "PRODUCT": "evergreen_global",
+  "DEVICE": "evergreen",
+  "TAGS": "release-keys",
+  "ID": "RP1A.200720.011",
+  "MANUFACTURER": "Xiaomi",
+  "RELEASE": "11",
+  "BRAND": "POCO",
+  "MODEL": "evergreen",
+  "FINGERPRINT": "POCO/evergreen_global/evergreen:11/RP1A.200720.011/V12.5.2.0.RGBMIXM:user/release-keys",
+  "SECURITY_PATCH": "2021-11-05",
+  "DEVICE_INITIAL_SDK_INT": "30",
+  "FIRST_API_LEVEL": "30"
+}
