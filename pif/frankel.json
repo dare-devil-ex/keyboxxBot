@@ -1,0 +1,15 @@
+{
+    "MANUFACTURER": "Google",
+    "MODEL": "Pixel 10",
+    "FINGERPRINT": "google/frankel/frankel:17/CP2A.260605.012/15430684:user/release-keys",
+    "BRAND": "google",
+    "PRODUCT": "frankel",
+    "DEVICE": "frankel",
+    "RELEASE": "17",
+    "ID": "CP2A.260605.012",
+    "INCREMENTAL": "15430684",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2026-06-05",
+    "DEVICE_INITIAL_SDK_INT": "37"
+}
